@@ -1,6 +1,6 @@
 # TicTacToe
 
-The game was programmed in C++
+The game was programmed in C++.
 It is a two player game.
 
 Rules:
